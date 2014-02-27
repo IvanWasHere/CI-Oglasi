@@ -1,0 +1,289 @@
+	body {
+	background-color:black;
+	background-image:url('../img/11.jpg') ;
+	background-position: 0 100%;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	}
+	.ulaz{
+	padding-top: 20px;
+
+	}
+	.logo{
+		color:#87C7F5;
+		font-size:3em;
+		text-align: left;
+		font-family: 'Contrail One', cursive;
+
+	}
+	.no-space {
+    margin-left:0;
+	}
+	.duzina{
+		width: 940px;
+	}
+	.android{
+		margin-top: 5px;
+	}
+	.tamno{
+		background-color:black;
+	}
+	.program{
+	margin-bottom:20px;
+	}
+
+	.slusaj{
+	
+	}
+	.menu{
+		width:100%;
+	}
+	.menu-inner{
+		margin-left: auto;
+		margin-right:auto;
+		background-color:white;
+		border: 1px solid #DEDEDE;
+		border-top-left-radius:  4px;
+		border-top-right-radius: 4px;
+		width:100%;
+		padding-top: 20px;
+		padding-bottom: 5px;
+	}
+	.menu li {
+		display: inline;
+	}
+	.menu ul a {
+		text-decoration: none;
+		font-family: 'Contrail One', cursive;
+		color: black;
+		padding-right: 30px;
+		font-size: 1.5em;
+	}
+	.menu ul a:hover{
+	color: red;
+	}
+	.ribbon{
+	background-image:url('../img/ribbon.png');
+	background-repeat:no-repeat;
+	color:white;
+	padding-top: 10px;
+	padding-left: 10px;
+	height:38px;
+	margin-bottom: 5px;
+	font-size: 1.5em;
+	}
+	.tekst{
+	font-size: 1.35em;
+
+	}
+	.malo{
+		padding-top: 15px;
+	}
+	.malo ul a {
+		text-decoration: none;
+		list-style-type: none;
+		font-family: 'Contrail One', cursive;
+		color: black;
+		padding-right: 30px;
+		font-size: 1.5em;
+
+	}
+	.malo li {
+	list-style-type: none;
+	padding-top: 8px;
+	}
+	.malo ul a:hover{
+	color: red;
+	}
+
+	.belo{
+		background-color: white;
+		border: 1px solid #DEDEDE;
+		border-radius:  8px;
+	}
+	.prognoza {
+
+		margin-left: 50px;
+
+	}
+
+	.footer{
+		padding-top: 10px;
+		padding-bottom: 10px;
+
+	}
+	.banner{
+		padding-right: 5px;
+	}
+	.banner div{
+		margin-bottom: 20px;
+	}
+	.slikadole img{
+		margin-bottom: 10px;
+	}
+	.oglasi{
+		border-radius:  4px;
+		padding:5px;
+		margin-bottom: 10px;
+	}
+	.pro{
+		background-color: #9BD6EE;
+	}
+	.vazno{
+		background-color: yellow;
+	}
+	.oglasi ul,li{
+		list-style-type: none;
+		padding-top: 2px;
+	}
+	.oglasi p {
+		padding-left: 10px;
+	}
+	.info {
+		background-color: #17698C;
+		color: white;
+		border-radius:  4px;
+		margin:5px;
+		padding-bottom: 2px;
+	}
+	.emisija{
+		margin-bottom: 40px;
+	}
+
+
+
+
+
+
+	.left-header placeholder,input[type="text"]::-webkit-input-placeholder{
+	color: #F2F2F2;
+	}
+	.box{
+		height:200px;
+		background-color:white;
+		border: 1px solid #DEDEDE;
+		border-radius:  8px;
+		margin-bottom: 5px;
+	}
+	.box-image{
+	float:left;
+	padding-right:10px;
+	}
+	.img-promo{
+	height: 200px;
+	width: 270px;
+	}
+	.input-position{
+		padding-top:30px;
+	}
+	.color input{
+		background-color:#4E86D1;
+		border: 1px solid #4E86D1;
+		color: white;
+		font-size:1.2em;
+		height:25px;
+	}
+	.search-btn{
+		padding-left:10px;
+	}
+	.upper10{
+		margin-top:10px;
+	}
+
+	.small-text{
+		font-family: 'Contrail One', cursive;
+		color: gray;
+		font-size: 0.9em;
+	}
+	.text-orange{
+		font-family: 'Contrail One', cursive;
+		color: orange;
+		font-size: 0.9em;
+	}
+	.short-desc h4{
+		font-family: 'Rambla', sans-serif;
+		font-size: 1.5em;
+	}
+	.short-desc p{
+		padding-right:5px;
+		color: gray;
+		font-size: 0.9em;
+	}
+	.short-stats{
+		height: 84px;
+		width:130px;
+		float:left;
+		border-right: 1px solid #DEDEDE;
+		padding-right:2px;
+		padding-left:2px;
+		margin-bottom:3px;
+		margin-right:5px;
+		text-align:center;
+	}
+	.short-stats-last{
+		height: 84px;
+		text-align:center;
+		width:100px;
+		float:left;
+		padding-right:2px;
+		padding-left:2px;
+		margin-bottom:3px;
+		margin-right:5px;
+	}
+	.box-video {
+		padding: 5px 5px 5px 10px;
+		background-color:white;
+		border: 1px solid #DEDEDE;
+		border-radius:  8px;
+	}
+	.submitter {
+	background-color:#FFF2B0;
+	border: 1px solid #E8853A;
+	padding: 5px 10px 15px 10px;
+	margin-bottom: 10px;
+	}
+	.submitter h4{
+	font-family: 'Contrail One', cursive;
+	font-size: 1.5em;
+	}
+	.dir-title {
+	border-top-left-radius:  8px;
+	border-top-right-radius: 8px;
+	border: 1px solid #2F68AF;
+	background-color:#2F68AF;
+	height: 30px;
+	color:white;
+	font-family: 'Contrail One', cursive;
+	padding-top: 10px;
+	padding-left: 20px;
+	font-size: 1.5em;
+	}
+	.dir-list{
+	background-color:white;
+	border: 1px solid #2F68AF;
+	height: 450px;
+	}
+	.dir-box{
+	float:left;
+	margin-right: 5px;
+	margin-left:7px;
+	margin-top:5px;
+	width:140px;
+	height:200px;
+	}
+	.dir-box img{
+	border: 2px solid #2F68AF;
+	background-color:#2F68AF;
+	}
+	.dir-subtitle{
+	text-align:center;
+	font-size: 1em;
+	border: 2px solid #2F68AF;
+	background-color:#2F68AF;
+	color:white;
+	width:140px;
+	}
